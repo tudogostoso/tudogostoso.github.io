@@ -1,0 +1,17 @@
+{
+  "version": "1.0",
+  "name": "Tudo Gostoso",
+  "description": "O site de culinária mais querido do Brasil. Líder de mercado, o TDG foi concebido sob o conceito colaborativo: o próprio internauta assume o papel primordial de compartilhar suas receitas.",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/images/tdg60.png",
+    "128": "/images/tdg128.png"
+  },
+  "developer": {
+    "name": "No Zebra Network Ltda",
+    "url": "http://www.gruponzn.com/"
+  },
+  "installs_allowed_from": ["*"],
+  "appcache_path": "/cache.manifest",
+  "default_locale": "pt-BR"
+}
